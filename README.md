@@ -4,4 +4,5 @@
 
 - Vanilla JavaScript
   - Bundler: Parcel.
+
 [Live website URL](https://guess-it-please.netlify.app/)
